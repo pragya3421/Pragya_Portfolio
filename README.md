@@ -1,6 +1,6 @@
 # Project Information
 
-Click link to see details
+- Click link to see details
 
 | Project Link | Domain | Tools Used | Architecture | Project Description |
 |--------------|--------|------------|--------------|---------------------|
